@@ -1,0 +1,14 @@
+.NewTodoForm {
+    margin-bottom: 3em;
+}
+
+
+.NewTodoForm button {
+    border: none;
+    border-radius: 5px;
+    width: 4em;
+    color:whitesmoke;
+    background-color: darkcyan;
+    margin-left: 0.2em;
+}
+

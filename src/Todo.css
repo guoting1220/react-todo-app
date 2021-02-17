@@ -1,0 +1,40 @@
+.Todo {
+    text-align: left;
+    margin-left: 20%;
+    width: 60%;
+}
+
+.Todo button {
+    border: none;
+    border-radius: 5px;
+    font-size: smaller;
+    color: white;
+    margin: 0.2em;
+    outline: none;
+    cursor: pointer;
+}
+
+.Todo-task {
+    display: inline-block;
+    margin-left: 0.2em;
+}
+
+.Todo-editBtn {    
+    background-color:lightskyblue;
+}
+
+.Todo-deleteBtn {
+    background-color: rgb(216, 93, 77);
+}
+
+.editSubmitBtn {
+    background-color: rgb(133, 132, 130);
+}
+
+.Todo-completeBtn {
+    background-color:goldenrod;
+}
+
+.completed {
+    background-color:forestgreen;
+}
